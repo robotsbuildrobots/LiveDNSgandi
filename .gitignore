@@ -1,0 +1,11 @@
+# Secrets
+config.ini
+.env
+
+# Python Environment
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
